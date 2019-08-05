@@ -1,2 +1,2 @@
 # hello-world2
-This is the beginning of my GitHub. I'm doing my best to learn!
+I'm a designer trying to expand my knowledge. One avenue I wanted to explore was GitHub. I'm terrible at version control, so this will hopefully help me with it.
